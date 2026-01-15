@@ -1,0 +1,15 @@
+deployment:
+  redirect: false
+  auth-bff: true
+  auth-ui: true
+
+product:
+  info:
+    data:
+      description: "OneCX Service"
+      imageUrl: ""
+      iconName: desktop
+      displayName: "OneCX Service"
+      basePath: /service
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]

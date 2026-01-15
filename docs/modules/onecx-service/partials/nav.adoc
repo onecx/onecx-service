@@ -1,3 +1,7 @@
 * xref:documentation:onecx-service:index.adoc[Service]
 +
 include::documentation:onecx-service-redirect:partial$nav.adoc[]
++
+include::documentation:onecx-service-auth-ui:partial$nav.adoc[]
++
+include::documentation:onecx-service-auth-bff:partial$nav.adoc[]
