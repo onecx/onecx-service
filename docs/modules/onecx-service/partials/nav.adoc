@@ -1,0 +1,3 @@
+* xref:documentation:onecx-service:index.adoc[Service]
++
+include::documentation:onecx-service-redirect:partial$nav.adoc[]
