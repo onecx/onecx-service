@@ -1,0 +1,15 @@
+dependencies:
+- name: helm-product
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.4.0
+- name: onecx-service-redirect
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.5
+- name: onecx-service-auth-bff
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.2
+- name: onecx-service-auth-ui
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.3
+digest: sha256:49c60784ebc014e2f886dc9513cec0a7f1b8994586ff3379bdfe58e2a3c2e7fb
+generated: "2026-01-15T14:52:07.236230357+01:00"

@@ -1,0 +1,24 @@
+apiversion: v2
+name: onecx-service
+version: 0.0.0
+appversion: 0.0.0
+dependencies:
+- name: helm-product
+  version: 0.4.0
+  repository: oci://ghcr.io/onecx/charts
+  alias: product
+- name: onecx-service-redirect
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.redirect"
+  alias: "redirect"
+- name: onecx-service-auth-bff
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.auth-bff"
+  alias: "auth-bff"
+- name: onecx-service-auth-ui
+  version: "*-0"
+  repository: oci://ghcr.io/onecx/charts
+  condition: "deployment.auth-ui"
+  alias: "auth-ui"
