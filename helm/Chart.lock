@@ -10,6 +10,6 @@ dependencies:
   version: 0.0.0-rc.2
 - name: onecx-service-auth-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.9
-digest: sha256:d139d7fbd86dbfb4c4e4d53d1551c17f97676c933b2008406103e5ec71f05235
-generated: "2026-01-19T12:06:38.263894324Z"
+  version: 0.0.0-rc.10
+digest: sha256:022af295e05863dfb7078e2a960ff02c0732dff34931749d2d284ed91efa49a2
+generated: "2026-01-19T12:15:17.922572308Z"
