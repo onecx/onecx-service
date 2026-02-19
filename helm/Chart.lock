@@ -4,12 +4,12 @@ dependencies:
   version: 0.4.0
 - name: onecx-service-redirect
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.11
+  version: 0.0.0-rc.12
 - name: onecx-service-auth-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.9
 - name: onecx-service-auth-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.19
-digest: sha256:658bf944c1409d82bc08332a97b660b3efa7bbb3a8edf0923baf68eb9e8b5769
-generated: "2026-02-12T09:21:08.384295337Z"
+digest: sha256:fcd124e28ce42e6e3a265780a9c56dd11bee0278d71c5a81b2d0f60e4a1ab7ea
+generated: "2026-02-19T19:31:50.164503978Z"
