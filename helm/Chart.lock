@@ -7,9 +7,9 @@ dependencies:
   version: 1.4.0-rc.9
 - name: onecx-service-auth-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.2.0-rc.11
+  version: 0.2.0-rc.12
 - name: onecx-service-auth-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.2.0-rc.15
-digest: sha256:13584c3420d343cadede4e27ae9821b75c229298e4389f014508b35c3561e861
-generated: "2026-08-20T06:53:36.772673715Z"
+digest: sha256:2040c92af5c7da532946bcf5d865272edcf96f7878dcae0c8a4376baf12e3794
+generated: "2026-08-20T18:07:32.549327347Z"
